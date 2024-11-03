@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@mui/material": "^6.1.6",
+    "@mui/x-data-grid": "^7.22.1",
+    "@shadcn/ui": "^0.0.4",
+    "autoprefixer": "^10.4.20",
+    "csv-parser": "^3.0.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mongoose": "^8.8.0",
+    "multer": "^1.4.5-lts.1",
+    "postcss": "^8.4.47",
+    "shadcn-ui": "^0.2.3",
+    "tailwindcss": "^3.4.14"
+  }
+}

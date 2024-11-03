@@ -1,0 +1,50 @@
+.dark-theme-container {
+  background-color: #121212;
+  color: #e0e0e0;
+  padding: 20px;
+}
+
+.MuiTableCell-root {
+  color: #e0e0e0;
+  border-color: #333;
+}
+
+.MuiTableCell-head {
+  background-color: #1f1f1f;
+}
+
+.MuiPaper-root {
+  background-color: #1a1a1a;
+}
+
+
+.MuiDataGrid-root {
+  background-color: #ffffff;
+  font-size: 14px;
+}
+.MuiDataGrid-toolbarContainer {
+  background-color: #f5f5f5;
+  padding: 5px;
+}
+
+
+.shadcn-table-container {
+  padding: 20px;
+}
+
+.search-input {
+  margin-bottom: 5px;
+  padding: 5px;
+  width: 100%;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.search-input:focus {
+  outline: none;
+  border-color: #888;
+}
+
+.table-cell {
+  padding: 10px;
+}
